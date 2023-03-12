@@ -17,11 +17,11 @@ To use the visualizer, you need to have Python 3 installed on your machine, as w
 
 To visualize the DFS algorithm, run the following command:
 
-`python dfs_visualizer.py`
+`python dfs.py`
 
 To visualize the BFS algorithm, run the following command:
 
-`python bfs_visualizer.py`
+`python bfs.py`
 
 Both scripts will prompt you to enter the number of nodes in the graph. Once you enter this value, the script will generate a random graph with that many nodes and edges. The search algorithm will then be applied to the graph, and a sequence of images will be generated that show the search process step by step.
 
