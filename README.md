@@ -1,5 +1,7 @@
 # Graph Traversal Visualizer
+
 [GitHub](https://github.com/Vignaraj-pai/DSA-LabAssignment)
+
 This is a Python project that allows you to visualize the Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms for graph traversal. The project is built using the following libraries:
 
 - NetworkX for creating and manipulating graph structures
